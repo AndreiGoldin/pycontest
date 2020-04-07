@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use("TkAgg")
+# matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 import matplotlib.animation as anm
 import numpy as np
